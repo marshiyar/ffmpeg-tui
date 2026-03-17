@@ -1,0 +1,44 @@
+# macOS
+.DS_Store
+
+# Editors/IDE metadata
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Build directories
+build/
+Build/
+cmake-build-*/
+dist/
+out/
+bin/
+obj/
+out/
+# C/C++ build system artifacts
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+makedep*
+*.d
+*.o
+*.obj
+*.so
+*.a
+*.dylib
+*.dll
+*.exe
+*.lib
+# videos
+*.mp4
+*.mov
+*.mkv
+
+# Tooling/test artifacts
+*.log
+*.tmp
+*.cache
+
